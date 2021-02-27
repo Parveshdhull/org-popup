@@ -2,6 +2,9 @@
 
 Take notes for emacs org-mode using pop-ups
 
+https://user-images.githubusercontent.com/17097240/109394415-e9af7e80-794c-11eb-9947-b4064094fba1.mp4
+
+
 ## Features
 - Take notes very very fast
 - Clipboard inserted in template by default
