@@ -44,7 +44,7 @@ Take notes for emacs org-mode using pop-ups
 Assign these commands to keyboard hot-keys, and take note from anywhere, like while reading ebook or surfing net.
 
 ## YouTube Tutorial
-[Coming Soon]
+https://www.youtube.com/watch?v=DZoNWxifv4I
 
 
 ## Websites
