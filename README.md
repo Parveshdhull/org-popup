@@ -2,7 +2,7 @@
 
 Take notes for emacs org-mode using pop-ups
 
-![demo](https://user-images.githubusercontent.com/17097240/109394477-3abf7280-794d-11eb-909f-293a8cc6d29f.gif)
+![demo2](https://user-images.githubusercontent.com/17097240/109394838-12387800-794f-11eb-83de-04a457344e78.gif)
 
 
 ## Features
